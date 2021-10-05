@@ -73,7 +73,7 @@ node tuya-mqtt.js
 ```
 To enable debugging output (required when opening an issue):
 ```
-DEBUG=tuya-mqtt:* tuya-mqtt.js
+DEBUG=tuya-mqtt:* node tuya-mqtt.js
 ```
 
 ### Updating devices.conf with new and/or changed devices:
